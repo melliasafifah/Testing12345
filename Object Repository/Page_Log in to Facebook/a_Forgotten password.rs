@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Forgotten password</name>
+   <tag></tag>
+   <elementGuidId>beef4d6b-a75e-400e-bb9c-1db2300a8d7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a._97w4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login_link']/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d60cb0dd-26b6-4478-8431-5e943d42dd6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.facebook.com/recover/initiate/?ars=facebook_login</value>
+      <webElementGuid>855d2bb2-663e-46d8-a938-6c6d1ce4fadf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_97w4</value>
+      <webElementGuid>d8f3a6e9-7426-4cda-ac41-d081c8d05983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forgotten password?</value>
+      <webElementGuid>fe491b5d-77a6-4005-bbb4-d81a99fbc3ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login_link&quot;)/div[@class=&quot;_97w3&quot;]/a[@class=&quot;_97w4&quot;]</value>
+      <webElementGuid>72da1b7e-8263-4fb3-91a4-970040e3266b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login_link']/div/a</value>
+      <webElementGuid>aafb5433-d55c-48b7-ba90-0f4b630c7483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Forgotten password?')])[2]</value>
+      <webElementGuid>9787cda8-fe0a-4b55-b4e3-72d89f486e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In with Google'])[1]/following::a[1]</value>
+      <webElementGuid>12fbe75b-05eb-45ce-97cb-70704ee8fee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In'])[1]/following::a[2]</value>
+      <webElementGuid>0c7144cf-2aff-4488-bedd-3676d602596d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English (UK)'])[1]/preceding::a[1]</value>
+      <webElementGuid>dd609b69-45dc-4a68-88e1-506dfa54dc66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/preceding::a[1]</value>
+      <webElementGuid>45b0bd0d-b04e-418b-8be7-b26c1fcd486d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.facebook.com/recover/initiate/?ars=facebook_login')]</value>
+      <webElementGuid>680f8d39-34b5-4dd4-8945-7180344def6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a</value>
+      <webElementGuid>b8273c6e-0059-4b23-aa5c-5742be7f8180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.facebook.com/recover/initiate/?ars=facebook_login' and (text() = 'Forgotten password?' or . = 'Forgotten password?')]</value>
+      <webElementGuid>2bc22693-bcdd-4cd5-90db-3255e3ae6845</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
